@@ -50,11 +50,23 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 <h3>UnderEvent App</h3>
 <p>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 1.PNG"></a>
+</p> 
+<p>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 2.PNG"></a>
+</p> 
+<p>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 3.PNG"></a>
+</p> 
+<p>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 4.PNG"></a>
+</p> 
+<p>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 5.PNG"></a>
+</p>
+<p>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 6.PNG"></a>
+</p>
+<p>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 7.PNG"></a>
 </p> 
 &nbsp;
