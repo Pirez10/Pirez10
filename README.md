@@ -20,8 +20,6 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 
 <img src="./assets/javascript.svg" height="auto" width="40">
 
-<img src="./assets/jquery.svg" height="auto" width="40">
-
 <img src="./assets/bootstrap.svg" height="auto" width="40">
 
 <img src="./assets/git.svg" height="auto" width="40">
