@@ -1,6 +1,6 @@
 ![pexels-max-deroin-51415 (2)](https://user-images.githubusercontent.com/58791994/124398821-a08d8380-dccc-11eb-990f-c45f929547b8.jpg)
 
-### Hi!!!, I´m Franco 👋
+### Hi there, I´m Franco 👋
 
 I’m a Fullstack developer from Argentina currently finishing a 800hs coding bootcamp. I'm always interested in gaining experience using React, Redux, Node, Express and other tecnologies while I apply my knowledge anad learn continuosly. I’m looking to expand my portfolio, get my first formal work experience and find solutions to different problems both individually and as a team.
 
