@@ -1,6 +1,6 @@
 ![pexels-max-deroin-51415 (2)](https://user-images.githubusercontent.com/58791994/124398821-a08d8380-dccc-11eb-990f-c45f929547b8.jpg)
 
-### Hola a todos, soy Franco 👋
+### Hi!!!, I´m Franco 👋
 
 I’m a Fullstack developer from Argentina currently finishing a 800hs coding bootcamp. I'm always interested in gaining experience using React, Redux, Node, Express and other tecnologies while I apply my knowledge anad learn continuosly. I’m looking to expand my portfolio, get my first formal work experience and find solutions to different problems both individually and as a team.
 
@@ -30,3 +30,14 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 
 <img src="./assets/html5.svg" height="auto" width="40">
 </p>
+
+
+### Connect with Me
+<p align="center">
+
+<a href="www.linkedin.com/in/ing-franco-pirez"><img src="https://img.shields.io/badge/-Sebastian%20Rodriguez%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:francopirez95@gmail.com"><img src="https://img.shields.io/badge/-sebitacasa14@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+
+</p>
+
