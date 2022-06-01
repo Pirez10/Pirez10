@@ -40,17 +40,16 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/country/country 3.PNG"></a>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/country/country 4.PNG"></a>
 </p>
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
-</p>
 
 <h3>UnderEvent App</h3>
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
+  <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 1.PNG"></a>
+  <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 2.PNG"></a>
+  <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 3.PNG"></a>
+  <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 4.PNG"></a>
+  <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 5.PNG"></a>
+  <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 6.PNG"></a>
+  <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/underEvent/grupal 7.PNG"></a>
 </p> 
 &nbsp;
 
