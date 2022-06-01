@@ -36,8 +36,14 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 
 <p>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/country/country 1.PNG"></a>
+</p>
+<p>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/country/country 2.PNG"></a>
+</p>
+<p>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/country/country 3.PNG"></a>
+</p>
+<p>
   <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/country/country 4.PNG"></a>
 </p>
 
