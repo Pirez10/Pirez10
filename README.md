@@ -5,7 +5,7 @@
 I’m a Fullstack developer from Argentina currently finishing a 800hs coding bootcamp. I'm always interested in gaining experience using React, Redux, Node, Express and other tecnologies while I apply my knowledge anad learn continuosly. I’m looking to expand my portfolio, get my first formal work experience and find solutions to different problems both individually and as a team.
 
 
-## Skill set:
+### Skill set:
 
 <p align="left">
 <img src="./assets/react.svg" height="auto" width="40">
@@ -31,7 +31,7 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 <img src="./assets/html5.svg" height="auto" width="40">
 </p>
 
-## :pushpin: My proyects
+### :pushpin: My proyects
 <h3>Country App</h3>
 
 <p>
