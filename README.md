@@ -14,8 +14,6 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 
 <img src="./assets/Frame_1.svg" height="auto" width="40">
 
-<img src="./assets/mongodb.svg" height="auto" width="40">
-
 <img src="./assets/sequelizejs.svg" height="auto" width="40">
 
 <img src="./assets/postgresql.svg" height="auto" width="40">
