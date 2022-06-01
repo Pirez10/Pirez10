@@ -32,9 +32,10 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 </p>
 
 ## :pushpin: My proyects
+<h3>Country App</h3>
 
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
+  <a><img src="https://github.com/Pirez10/Pirez10/blob/main/images/country/country 1.PNG"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
 </p>
@@ -44,7 +45,7 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
 </p>
 
-<h3>Pedidotopia</h3>
+<h3>UnderEvent App</h3>
 <p>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
