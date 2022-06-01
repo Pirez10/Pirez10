@@ -35,7 +35,7 @@ I’m a Fullstack developer from Argentina currently finishing a 800hs coding bo
 ### Connect with Me
 <p align="center">
 
-<a href="[www.linkedin.com/in/ing-franco-pirez](https://www.linkedin.com/in/ing-franco-pirez/)"><img src="https://img.shields.io/badge/-Franco%20Pirez%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ing-franco-pirez"><img src="https://img.shields.io/badge/-Franco%20Pirez%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:francopirez95@gmail.com"><img src="https://img.shields.io/badge/-francopirez95@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
