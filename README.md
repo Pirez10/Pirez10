@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sebastian</h2>
+![pexels-max-deroin-51415 (2)](https://user-images.githubusercontent.com/58791994/124398821-a08d8380-dccc-11eb-990f-c45f929547b8.jpg)
 
 ### Hola a todos, soy Franco 👋
 
